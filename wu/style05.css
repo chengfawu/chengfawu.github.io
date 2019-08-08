@@ -1,0 +1,72 @@
+/* 删除浏览器的默认样式 */
+*{list-style:none;outline:none;}
+/* 全局控制 */
+body{font-family:"微软雅黑";}
+
+#sheader a{
+	
+        text-decoration:none;
+}/*取消超链接的下划线*/
+#sheader a:hover{
+	color:red;
+        
+}/*鼠标悬停*/
+#a{
+          text-align:center;
+          color:#F9F900;    
+          }
+#b{
+          
+          border:3px solid #4EFEB3;
+          width:550px;height:450px;
+          float:left;
+          }
+#c{
+          clear:both;/**不许出现浮动效果**/
+          }
+#d{ 
+          text-align:center;
+          color:#2894FF;
+          }
+#l{
+         
+         width:450px;
+         height:350px ;
+         border:3px solid #ffaad5;
+        
+        
+          }
+.a{       border:3px solid #0080FF;
+          width:550px;height:450px;
+          float:left;
+          }
+.c{
+          clear:both;
+          }
+.b{ 
+          text-align:center;
+          color:#AE0000;
+          }
+.d{       border:3px solid #FF0000;
+          width:550px;height:450px;
+          float:left;
+          }
+.q{
+          clear:both;
+          }
+.w{ 
+          text-align:center;
+          color:#6F00D2;
+          }
+.e{       border:3px solid #0000C6;
+          width:550px;height:450px;
+          float:left;
+          }
+.r{
+          clear:both;
+          }
+
+
+
+
+
